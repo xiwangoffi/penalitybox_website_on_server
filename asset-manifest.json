@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/bundle.js",
+    "static/media/penalityBox.gif": "/static/media/penalityBox.2b727c10b660661ace85.gif",
+    "static/media/penalitybox_panel.png": "/static/media/penalitybox_panel.83e9afe4f3fb02bcdaa9.png",
+    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/logoPenalityBoxDark.png": "/static/media/logoPenalityBoxDark.c2e18deba6453234abf0.png",
+    "static/media/penaRedTwo.JPG": "/static/media/penaRedTwo.79f727084043c7d0188e.JPG",
+    "static/media/penaRedOne.JPG": "/static/media/penaRedOne.35e1a2339abc08f492de.JPG",
+    "static/media/penaGreen.JPG": "/static/media/penaGreen.8b3ad318089585c29570.JPG",
+    "static/media/arduino.png": "/static/media/arduino.edc61157741db40e9908.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/react-logo.png": "/static/media/react-logo.9ff29ce58a6993557080.png",
+    "static/media/logoLB2.png": "/static/media/logoLB2.07778f91eabad21a9df7.png",
+    "static/media/logoC.png": "/static/media/logoC.177eefe8bfa68dcb02ce.png",
+    "static/media/user-tie.png": "/static/media/user-tie.ae617a6022e99941be45.png",
+    "static/media/android.png": "/static/media/android.c1e2b11a4e041c65b1d1.png",
+    "static/media/loading.png": "/static/media/loading.7444433e8ac135af5abc.png",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "bundle.js.map": "/static/js/bundle.js.map"
+  },
+  "entrypoints": [
+    "static/js/bundle.js"
+  ]
+}
